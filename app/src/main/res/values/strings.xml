@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name" translatable="false">Art Space</string>
+    <string name="a1979">1979</string>
+    <string name="a1979_text">Título: 1 </string>
+    <string name="a1982">1982</string>
+    <string name="a1982_text">Título: 2 </string>
+    <string name="a1983">1983</string>
+    <string name="a1983_text">Título: 3 </string>
+    <string name="a1984">1984</string>
+    <string name="a1984_text">Título: 4 </string>
+    <string name="a1985">1985</string>
+    <string name="a1985_text">Título: 5 </string>
+    <string name="a1986">1986</string>
+    <string name="a1986_text">Título: 6 </string>
+    <string name="a1990">1990</string>
+    <string name="a1990_text">Título: 7 </string>
+    <string name="a1992">1992</string>
+    <string name="a1992_text">Título: 8 </string>
+    <string name="a1997">1997</string>
+    <string name="a1997_text">Título: 9 </string>
+    <string name="a2000">2000</string>
+    <string name="a2000_text">Título: 10 </string>
+    <string name="a2001">2001</string>
+    <string name="a2001_text">Título: 11 </string>
+    <string name="a2002">2002</string>
+    <string name="a2002_text">Título: 12 </string>
+    <string name="a2008">2008</string>
+    <string name="a2008_text">Título: 13 </string>
+    <string name="a2019">2019</string>
+    <string name="a2019_text">Título: 14 </string>
+    <string name="a2020">2020</string>
+    <string name="a2020_text">Título: 15 </string>
+
+</resources>
